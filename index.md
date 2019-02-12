@@ -1,19 +1,19 @@
-## Christopher Hardin
+## Welcome
 
 You can use the [editor on GitHub](https://github.com/chrishardin/resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### University of Kansas
+###Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Computer Science
-## Class of 2021
-### Sophomore
+# 1
+## 2
+### 3
 
 - Bulleted
 - List
